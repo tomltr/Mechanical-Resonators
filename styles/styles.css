@@ -29,13 +29,13 @@ h1{
 }
 
 #title{
-    font-family: 'Fredericka the Great', cursive !important; 
     margin-bottom: 25rem;
 }
 
 h4{
     padding-top: 4rem;
     margin-left: 1rem;
+    padding-bottom: 1rem;
 }
 
 #what{
@@ -51,18 +51,30 @@ h4{
     margin-left: 2rem;
 }
 
+#list {
+    margin-left: 1.5rem;
+}
+
 #list span{
     margin-left: 8rem;
     margin-right: 9rem;
 }
 
+#danger {
+    margin-left: 1.5rem;
+}
+
+#danger img{
+    margin-left: 2rem;
+}
+
 #danger span{
-    margin-left: 7rem;
+    margin-left: 8rem;
     margin-right: 6rem;
 }
 
-#how{
-    display: inline;
+#how div{
+   text-align: center;
 }
 
 #how img{
@@ -70,7 +82,7 @@ h4{
 }
 
 #how p span{
-    margin-left: 14rem;
+    margin-left: 25rem;
 }
 
 #end{
