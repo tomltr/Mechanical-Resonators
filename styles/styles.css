@@ -1,9 +1,5 @@
-body{
-
-}
-
-nav{
-    color:black;
+* {
+    font-family: 'Special Elite', cursive;
 }
 
 nav a{
@@ -33,6 +29,7 @@ h1{
 }
 
 #title{
+    font-family: 'Fredericka the Great', cursive !important; 
     margin-bottom: 25rem;
 }
 
@@ -52,6 +49,16 @@ h4{
 
 #what img{
     margin-left: 2rem;
+}
+
+#list span{
+    margin-left: 8rem;
+    margin-right: 9rem;
+}
+
+#danger span{
+    margin-left: 7rem;
+    margin-right: 6rem;
 }
 
 #how{
