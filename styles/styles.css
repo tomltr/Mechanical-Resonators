@@ -73,6 +73,11 @@ h4{
     margin-right: 6rem;
 }
 
+#how
+{
+    display: inline;   
+}
+
 #how div{
    text-align: center;
 }
@@ -82,7 +87,7 @@ h4{
 }
 
 #how p span{
-    margin-left: 25rem;
+    margin-left: 14rem;
 }
 
 #end{
